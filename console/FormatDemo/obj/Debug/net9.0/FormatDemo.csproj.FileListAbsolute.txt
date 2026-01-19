@@ -1,0 +1,15 @@
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\bin\Debug\net9.0\FormatDemo.exe
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\bin\Debug\net9.0\FormatDemo.deps.json
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\bin\Debug\net9.0\FormatDemo.runtimeconfig.json
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\bin\Debug\net9.0\FormatDemo.dll
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\bin\Debug\net9.0\FormatDemo.pdb
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\FormatDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\FormatDemo.AssemblyInfoInputs.cache
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\FormatDemo.AssemblyInfo.cs
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\FormatDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\FormatDemo.sourcelink.json
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\FormatDemo.dll
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\refint\FormatDemo.dll
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\FormatDemo.pdb
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\FormatDemo.genruntimeconfig.cache
+C:\Users\Student_10\Documents\Laba3_Selivanov_Belyaev_ISP233\console\FormatDemo\obj\Debug\net9.0\ref\FormatDemo.dll
